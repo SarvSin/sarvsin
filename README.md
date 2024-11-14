@@ -20,7 +20,7 @@
 </h1>
 </div>
 
-I am a data scientist and ML engineer based in London, UK :gb:
+I am a data engineer based in London, UK :gb:
 
 Having built career-capital through a breadth in work experiences (latest at  <img width="60" alt="Amazon logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/512px-Amazon_logo.svg.png"></a>), I am now keen to build a long-term career with a team driven to maximize impact in sustainability and bio-security. 
 
